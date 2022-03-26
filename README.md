@@ -5,6 +5,6 @@ My personal website: coming at alekami649.me <br />
 Built on ASP.NET 6.0.
 
 Fonts used in project:
-[Poppins](https://fonts.google.com/specimen/Poppins)
+[Poppins](https://fonts.google.com/specimen/Poppins) <br />
 Icon source:
 [Iconscout](https://iconscout.com/unicons)
