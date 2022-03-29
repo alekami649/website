@@ -2,7 +2,7 @@
 My personal website: coming at [alekami649.me](https://alekami649.me) <br />
 **Not** published now!
 
-Built on ASP.NET 6.0.
+Built on HTML, CSS & JavaScript.
 
 Fonts used in project:
 [Poppins](https://fonts.google.com/specimen/Poppins) <br />
