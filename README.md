@@ -7,6 +7,6 @@ Built on HTML, CSS & JavaScript.
 Fonts used in project:
 [Poppins](https://fonts.google.com/specimen/Poppins) <br />
 Icon source:
-[Iconscout](https://iconscout.com/unicons) <br />
+[Boxicons](https://boxicons.com/) <br />
 Color palettes:
 [Coolors](https://coolors.co/palettes)
