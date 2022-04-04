@@ -1,5 +1,5 @@
 # alekami649's website
-My personal website: coming at [alekami649.me](https://alekami649.me) <br />
+My personal website: [alekami649.tk](https://alekami649.tk) <br />
 **Not** published now!
 
 Built on HTML, CSS & JavaScript.
