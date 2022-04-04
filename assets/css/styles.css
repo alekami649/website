@@ -555,7 +555,10 @@ img {
   transition: .4s;
 }
 /* Active item work*/
-
+.active-work{
+  background-color: var(--first-color);
+  color: var(--body-color);
+}
 
 /*=============== TESTIMONIAL ===============*/
 
